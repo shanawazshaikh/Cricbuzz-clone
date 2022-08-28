@@ -1,0 +1,89 @@
+.container{
+  display: inline-block;
+  padding-top: 26px;
+}
+.first{
+    display: inline-block;
+}
+.second{
+    font-size:x-large;
+    display: inline-block;
+    margin-left: 70px;
+
+}
+.table1{
+    background-color: lightgray;
+    width: 250px;
+    display: inline-block;
+    text-align: left;
+}
+.table2{
+    display: inline-block;
+    padding-left: 20px;
+    height: 300px;
+    position: absolute;
+
+}
+.table2 th{
+  padding-left: 30px;
+}
+.tr1{
+  background-color: aliceblue;
+}
+.container{
+    
+}
+.navbar {
+    background-color: seagreen;
+    height: 50px;
+  }
+  .navbar ul {
+    overflow: auto;
+  }
+  .navbar img{
+    float: right;
+    width: 80px;
+  }
+  .navbar li {
+    float: left;
+    list-style: none;
+    margin: 13px 15px;
+    padding-top: 3px;
+  }
+  .navbar li a {
+    padding: 5px 3px;
+    text-decoration: none;
+    color: white;
+  }
+  .navbar li a:hover {
+    color: black;
+  }
+  .search{
+    float: right;
+    color: white;
+    padding: 13px 13px;
+  }
+  .navbar input{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 125px;
+  }
+  .navbar2{
+    background-color: rgb(49, 49, 49);
+    height: 35px;
+  }
+  .navbar2 li{
+    float: left;
+    list-style: none;
+    margin: 10px 15px;
+  }
+  .navbar2 li a{
+    color: white;
+  }
+  .detail{
+    color: white;
+  }
+  .detail ul{
+    background-color: grey;
+  }
